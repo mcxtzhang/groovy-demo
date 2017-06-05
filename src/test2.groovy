@@ -12,3 +12,7 @@ def test = new test()
 test.printZ()//加上@Field 即可访问
 
 
+def fileName = "./com/mcxtzhang/xml/temp.txt"
+new File(fileName).withPrintWriter { printWriter ->
+    printWriter.println('The first content of file22222')
+}
