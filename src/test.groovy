@@ -1,4 +1,4 @@
-import com.mcxtzhang.groovy.Test
+import groovy.transform.Field
 
 /**
  * Intro: 
@@ -9,5 +9,24 @@ import com.mcxtzhang.groovy.Test
  * History:
  */
 
-def test = new Test('zhangxutong','Programmer')
-test.print()
+/*def test = new Test('zhangxutong','Programmer')
+test.print()*/
+
+/*def x = 1 // 加上 def 或者 类型 ，则是局部变量
+def print(){
+    println x
+}
+print()*/
+
+/*y = 1  // 此时相当于函数的参数传递过去的，但是在别的groovy里 不能访问
+def printY(){
+    println y
+}
+printY()*/
+
+@Field z =3
+def printZ(){
+    println z;
+}
+printZ()
+

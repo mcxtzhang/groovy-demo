@@ -20,3 +20,4 @@ assert aList[5]==null
 aList[99] = 99
 assert aList[99]==99
 println(aList.size())
+println aList

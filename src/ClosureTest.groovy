@@ -9,7 +9,7 @@
 //定义闭包
 /*def aClosure ={
     String param1,int param2 ->
-        println "this is the code"
+        println "this is the code :"
 }
 //调用闭包
 aClosure.call("a",1)
@@ -33,8 +33,9 @@ iamList.each {
     it=it+1
     println it
 }
-println iamList
-def testClosure(int a1,String b1,Closure closure){
+println iamList*/
+
+/*def testClosure(int a1,String b1,Closure closure){
     //调用闭包
     closure()
 }
@@ -47,7 +48,7 @@ testClosure 1,"2",{
 }*/
 
 //2 确定 closure的参数，只能通过sdk了。
-def aMap  = [k1:'value1',k2:true]
+/*def aMap  = [k1:'value1',k2:true]
 def result  = aMap.findAll {
     key,value->
         println "key = $key ,value = $value"
@@ -55,4 +56,4 @@ def result  = aMap.findAll {
             return true
         return false
 }
-println result
+println result*/
