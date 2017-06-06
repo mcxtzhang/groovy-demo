@@ -12,7 +12,7 @@ import groovy.util.slurpersupport.GPathResult
  */
 
 def srcFilePath = "./AndroidManifest.xml"
-def targetFilePath = "./temp2.txt"
+def targetFilePath = "./temp2.json"
 
 GPathResult result = new XmlSlurper().parse(new File(srcFilePath))
 //println result //这里输出的是<> xxxx</>里的xxx
@@ -34,10 +34,10 @@ new File(targetFilePath).withPrintWriter { printWriter ->
         //println value
 
         //println key + ":\"" + value + "\","
-        body+=key + ":\"" + value + "\",\n";
+        body+="\""+key + "\":\"" + value + "\",\n";
 
     }
-    printWriter.println(body.substring(0,body.length()-1))
+    printWriter.println(body.substring(0,body.length()-2))
     printWriter.println("}")
 }
 

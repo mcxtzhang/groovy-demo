@@ -1,0 +1,11 @@
+{
+"TestNewASActivity":"com.mcxtzhang.github.TestNewASActivity",
+"JobSchedulerActivity":"com.mcxtzhang.github.jobscheduler.JobSchedulerActivity",
+"RxActivity":"com.mcxtzhang.github.RxActivity",
+"SparseArrayOrderTestActivity":"com.mcxtzhang.github.SparseArrayOrderTestActivity",
+"TouchActivity":"com.mcxtzhang.github.touch.TouchActivity",
+"TestCstViewActivity":"com.mcxtzhang.github.view.TestCstViewActivity",
+"ExpandListViewActivity":"com.mcxtzhang.github.expand.ExpandListViewActivity",
+"FirstKotlinActivity":"com.mcxtzhang.github.kotlin.FirstKotlinActivity",
+"BitmapActivity":"com.mcxtzhang.github.bitmap.BitmapActivity"
+}
