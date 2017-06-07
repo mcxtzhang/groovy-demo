@@ -8,9 +8,9 @@
  */
 
 def srcFile = new File('list.groovy')
-/*srcFile.eachLine {
+srcFile.eachLine {
     line-> println line
-}*/
+}
 
 
 println srcFile.getBytes()

@@ -57,3 +57,8 @@ def result  = aMap.findAll {
         return false
 }
 println result*/
+
+def closure1 = {
+    p1,p2-> println "The params is p1:$p1,p2:$p2"
+}
+closure1("wtf",2)

@@ -7,9 +7,14 @@
  * History:
  */
 def aRange = 1..5
+
 println aRange
 println aRange.getClass().getCanonicalName()
 
 //如果不想包含最后一个元素
 def range2 = 1..<5
 println range2
+
+
+def step = aRange.step(2)
+println step
