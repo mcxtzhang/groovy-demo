@@ -1,7 +1,4 @@
 package com.mcxtzhang.xml
-
-import groovy.util.slurpersupport.GPathResult
-
 /**
  * Intro: 
  * Author: zhangxutong
@@ -11,10 +8,36 @@ import groovy.util.slurpersupport.GPathResult
  * History:
  */
 
-def srcFilePath = "./AndroidManifest.xml"
-def targetFilePath = "./temp2.json"
+srcFilePath = "./AndroidManifest.xml"
+targetFilePath = "./temp2.json"
 
-GPathResult result = new XmlSlurper().parse(new File(srcFilePath))
+
+def getLaunchActivity() {
+    def xmlFile = new File(srcFilePath)
+    def rootManifest = new XmlSlurper().parse(xmlFile)
+    def result ="";
+    rootManifest.application.activity.each { activity ->
+        String action = activity."intent-filter".action['@android:name']
+        String category = activity."intent-filter".category['@android:name']
+
+        println "android.intent.action.MAIN" == action
+        println "android.intent.category.LAUNCHER" == category
+        if ("android.intent.action.MAIN" == action
+                && "android.intent.category.LAUNCHER" == category) {
+            if (result == ""){
+                result = activity['@android:name']
+                println "ahahhaa :"+result
+            }
+        }
+    }
+    return result
+}
+
+println getLaunchActivity()
+
+
+
+/*GPathResult result = new XmlSlurper().parse(new File(srcFilePath))
 //println result //这里输出的是<> xxxx</>里的xxx
 def String packageName = result.@package
 //println packageName
@@ -39,7 +62,7 @@ new File(targetFilePath).withPrintWriter { printWriter ->
     }
     printWriter.println(body.substring(0,body.length()-2))
     printWriter.println("}")
-}
+}*/
 
 
 
