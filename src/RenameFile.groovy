@@ -1,5 +1,3 @@
-
-
 /**
  * Intro: 
  * Author: zhangxutong
@@ -9,7 +7,11 @@
  * History:
  */
 
-String oldFilename = "test.groovy"
+/*String oldFilename = "test.groovy"
 String newFilename = "new.groovy"
 
-new File(newFilename).renameTo(oldFilename)
+new File(newFilename).renameTo(oldFilename)*/
+
+new File(".").eachFile {   //这里的 File 表示的是一个路径
+    println it.getName();  //eachFile() 列出的每一项是一个 File 实例
+}
