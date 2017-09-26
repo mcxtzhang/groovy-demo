@@ -1,132 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1cb077e-2846-4df9-a814-0a580ca38cf0" name="Default" comment="emoji 脚本">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/10_1f629.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/11_1f628.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/12_1f621.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/13_1f61b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/14_1f62c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/15_1f627.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/16_1f641.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/18_1f624.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/1_1f642.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/20_1f61e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/21_1f60a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/22_1f644.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/23_1f60b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/25_1f630.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/26_1f613.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/27_1f603.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/28_1f608.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/29_1f913.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/2_1f616.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/31_1f632.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/32_1f912.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/33_1f635.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/93_1f388.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/98_1f3b5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/99_1f451.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiBean.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/17_1f925.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/19_1f922.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/30_1f479.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/49_1f923.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/59_1f921.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/61_1f926.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/71_1f940.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/84_1f91d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/89_1f91e.png" afterPath="" />
+    <list default="true" id="b1cb077e-2846-4df9-a814-0a580ca38cf0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiCodeGenerateHandler.groovy" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiCodeGenerateHandler.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/10_1f629.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f629.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/11_1f628.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f628.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/12_1f621.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f621.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/13_1f61b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f61b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/14_1f62c.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f62c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/15_1f627.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f627.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/16_1f641.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f641.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/18_1f624.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f624.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/1_1f642.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f642.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/20_1f61e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f61e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/21_1f60a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f60a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/22_1f644.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f644.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/23_1f60b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f60b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/24_1f635.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/24_1f635.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/25_1f630.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f630.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/26_1f613.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f613.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/27_1f603.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f603.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/28_1f608.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f608.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/29_1f913.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f913.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/2_1f616.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f616.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/31_1f632.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f632.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/32_1f912.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f912.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/33_1f635.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/output/emoji_1f635.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/34_1f622.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/34_1f622.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/35_1f61c.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/35_1f61c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/36_1f61a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/36_1f61a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/37_1f636.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/37_1f636.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/38_1f917.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/38_1f917.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/39_1f609.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/39_1f609.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/3_1f60d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/3_1f60d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/40_1f601.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/40_1f601.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/41_1f637.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/41_1f637.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/42_1f602.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/42_1f602.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/43_1f61d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/43_1f61d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/44_1f633.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/44_1f633.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/45_1f631.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/45_1f631.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/46_1f614.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/46_1f614.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/47_1f612.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/47_1f612.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/48_1f60c.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/48_1f60c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/4_1f62e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/4_1f62e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/50_1f60f.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/50_1f60f.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/51_1f643.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/51_1f643.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/52_1f47d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/52_1f47d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/53_1f47b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/53_1f47b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/54_1f480.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/54_1f480.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/55_1f31a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/55_1f31a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/56_1f31d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/56_1f31d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/57_1f4a4.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/57_1f4a4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/58_1f31e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/58_1f31e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/5_1f60e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/5_1f60e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/60_1f647.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/60_1f647.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/62_1f64b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/62_1f64b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/63_1f646.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/63_1f646.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/64_1f47e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/64_1f47e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/65_1f52a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/65_1f52a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/66_1f349.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/66_1f349.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/67_1f37b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/67_1f37b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/68_2615.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/68_2615.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/69_1f437.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/69_1f437.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/6_1f62d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/6_1f62d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/70_1f339.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/70_1f339.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/72_1f48b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/72_1f48b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/73_2764.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/73_2764.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/74_1f494.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/74_1f494.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/75_1f382.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/75_1f382.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/76_1f4a3.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/76_1f4a3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/77_1f4a9.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/77_1f4a9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/78_1f469.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/78_1f469.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/79_1f595.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/79_1f595.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/7_1f914.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/7_1f914.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/80_1f44d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/80_1f44d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/81_1f44e.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/81_1f44e.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/82_1f44f.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/82_1f44f.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/83_270c.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/83_270c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/85_1f918.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/85_1f918.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/86_1f44a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/86_1f44a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/87_1f44c.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/87_1f44c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/88_1f44b.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/88_1f44b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/8_1f910.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/8_1f910.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/90_261d.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/90_261d.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/91_1f4aa.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/91_1f4aa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/92_1f64f.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/92_1f64f.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/93_1f445.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/93_1f445.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/94_1f389.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/94_1f389.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/95_1f381.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/95_1f381.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/96_1f436.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/96_1f436.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/97_1f4b0.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/97_1f4b0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/emoji/9_1f62a.png" afterPath="$PROJECT_DIR$/src/com/mcxtzhang/emoj/res/9_1f62a.png" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,7 +22,7 @@
       <file leaf-file-name="FileTest.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FileTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="800">
               <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               <folding>
                 <element signature="e#27#176#0" expanded="false" />
@@ -211,11 +88,9 @@
       <file leaf-file-name="EmojiCodeGenerateHandler.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiCodeGenerateHandler.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-              <folding>
-                <element signature="e#28#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1475">
+              <caret line="59" column="89" lean-forward="false" selection-start-line="59" selection-start-column="89" selection-end-line="59" selection-end-column="89" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -223,7 +98,7 @@
       <file leaf-file-name="Paths.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/nio/file/Paths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="1450">
               <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
               <folding />
             </state>
@@ -233,7 +108,7 @@
       <file leaf-file-name="EmojiBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="325">
               <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="30" />
               <folding />
             </state>
@@ -243,7 +118,7 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="48400">
               <caret line="2001" column="24" lean-forward="false" selection-start-line="2001" selection-start-column="24" selection-end-line="2001" selection-end-column="24" />
               <folding />
             </state>
@@ -330,9 +205,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,172 +218,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-2.3.7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -598,32 +307,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mcxtzhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="emoj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -986,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505726474171</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="emoji 脚本">
+      <created>1506415305444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1506415305444</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1012,12 +702,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26004463" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26004463" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2750533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1097,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1260,7 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,7 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
           <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,7 +969,7 @@
     <entry file="file://$PROJECT_DIR$/src/temp360/temp.txt" />
     <entry file="file://$PROJECT_DIR$/src/FileTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="800">
           <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
             <element signature="e#27#176#0" expanded="false" />
@@ -1341,16 +1023,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
           <caret line="133" column="72" lean-forward="true" selection-start-line="133" selection-start-column="72" selection-end-line="133" selection-end-column="72" />
-          <folding>
-            <element signature="e#5644#5645#0" expanded="false" />
-            <element signature="e#5675#5676#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="48400">
           <caret line="2001" column="24" lean-forward="false" selection-start-line="2001" selection-start-column="24" selection-end-line="2001" selection-end-column="24" />
           <folding />
         </state>
@@ -1358,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="325">
           <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="30" />
           <folding />
         </state>
@@ -1373,13 +1051,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1089">
           <caret line="141" column="69" lean-forward="true" selection-start-line="141" selection-start-column="66" selection-end-line="141" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/nio/file/Paths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="1450">
           <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
           <folding />
         </state>
@@ -1387,11 +1064,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mcxtzhang/emoj/EmojiCodeGenerateHandler.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-          <folding>
-            <element signature="e#28#54#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1475">
+          <caret line="59" column="89" lean-forward="false" selection-start-line="59" selection-start-column="89" selection-end-line="59" selection-end-column="89" />
+          <folding />
         </state>
       </provider>
     </entry>

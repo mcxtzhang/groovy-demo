@@ -1,9 +1,6 @@
 package com.mcxtzhang.emoj
 
-import java.nio.file.Files
-import java.nio.file.Paths
 import java.util.function.Consumer
-
 /**
  * Intro: 
  * Author: zhangxutong
@@ -34,11 +31,11 @@ new File("./res/").eachFile {   //这里的 File 表示的是一个路径
                 , it.getName().substring(0, it.getName().lastIndexOf("."))
                 , newName.substring(0,newName.lastIndexOf("."))))
 
-        //重命名：
+/*        //重命名：
         String newFilePath = "./output/"
         String newFilename = newName
         Files.copy(Paths.get("./res/",it.getName()), Paths.get(newFilePath+newName))
-        //it.renameTo(newFilePath + newFilename)
+        //it.renameTo(newFilePath + newFilename)*/
     }
 
 
@@ -60,7 +57,7 @@ list.forEach(new Consumer<EmojiBean>() {
 String getCodeKeyboard(EmojiBean emojiBean) {
     //Emojicon.fromCodePoint(0x1f604),
     def index = emojiBean.fileName.indexOf('_')
-    def emojiTag = emojiBean.fileName.subSequence(index + 1, emojiBean.fileName.length() - 1)
+    def emojiTag = emojiBean.fileName.subSequence(index + 1, emojiBean.fileName.length() )
     "Emojicon.fromCodePoint(0x$emojiTag),"
 }
 
@@ -72,7 +69,7 @@ String getCodeKeyboard(EmojiBean emojiBean) {
 def getCodeTextShow(emojiBean) {
     //sEmojisMap.put(0x1f604, R.drawable.emoji_1f604);
     def index = emojiBean.fileName.indexOf('_')
-    def emojiTag = emojiBean.fileName.subSequence(index + 1, emojiBean.fileName.length() - 1)
+    def emojiTag = emojiBean.fileName.subSequence(index + 1, emojiBean.fileName.length() )
     "sEmojisMap.put(0x$emojiTag, R.drawable.$emojiBean.newFileName);"
 }
 
