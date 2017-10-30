@@ -12,7 +12,7 @@ import groovy.util.slurpersupport.GPathResult
  */
 //第一步，创建XmlSlurper类
 def xparser = new XmlSlurper()
-def targetFile = new File("learn.test.xml")
+def targetFile = new File("test.xml")
 //轰轰的GPath出场
 GPathResult gpathResult =xparser.parse(targetFile)
 
@@ -38,3 +38,5 @@ println androidManifest['@android:versionName']
 println androidManifest.@'android:versionName'
 
 println androidManifest.application.activity[1]['@android:name']
+
+println androidManifest.application.activity[0].text()
