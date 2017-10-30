@@ -1,3 +1,4 @@
+package learn
 /**
  * Intro: 
  * Author: zhangxutong
@@ -13,15 +14,19 @@
 }
 //调用闭包
 aClosure.call("a",1)
-aClosure("a",1)*/
+aClosure("a",1)
 
 //如果闭包没定义参数的话，则隐含有一个参数，it，和this的作用类似。 it 代表闭包的参数。
 
-/*def greeting = {
+def greeting = {
     "hello $it"
 }
 println greeting("a")
-println greeting.call(1)*/
+println greeting.call(1)
+//如果此时没传入参数
+println greeting()
+//必须要加括号
+println greeting*/
 
 //闭包使用注意事项：
 //1省略圆括号 : 当函数的最后一个参数是闭包的话，可以省略圆括号
@@ -58,6 +63,7 @@ def result  = aMap.findAll {
 }
 println result*/
 
+//忘了为了测试什么
 def closure1 = {
     p1,p2-> println "The params is p1:$p1,p2:$p2"
 }
