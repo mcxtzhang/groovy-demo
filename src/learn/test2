@@ -1,0 +1,4 @@
+import learn.test
+
+def test = new test()
+test.printZ()

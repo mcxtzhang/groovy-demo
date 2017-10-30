@@ -1,4 +1,8 @@
 package learn
+
+import com.mcxtzhang.groovy.Test
+import groovy.transform.Field
+
 /**
  * Intro: 
  * Author: zhangxutong
@@ -8,8 +12,8 @@ package learn
  * History:
  */
 
-/*def learn.test = new Test('zhangxutong','Programmer')
-learn.test.print()*/
+def test = new Test('zhangxutong','Programmer')
+test.print()
 
 /*def x = 1 // 加上 def 或者 类型 ，则是局部变量
 def print(){
@@ -23,12 +27,13 @@ def printY(){
 }
 printY()*/
 
-/*@Field z =3
+//使z成为 成员变量  在别的类调用printZ() 时，也能使用 见test2.groovy
+@Field z =3
 def printZ(){
     println z
     10
 }
-println printZ()*/
+println printZ()
 
 int x = 1
 println x.getClass()
