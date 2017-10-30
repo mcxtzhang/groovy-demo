@@ -9,7 +9,7 @@ import groovy.io.FileType
  * History:
  */
 
-/*def srcFile = new File('list.groovy')
+/*def srcFile = new File('learn.list.groovy')
 srcFile.eachLine {
     line-> println line
 }

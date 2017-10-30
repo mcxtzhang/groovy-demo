@@ -1,5 +1,4 @@
-import groovy.transform.Field
-
+package learn
 /**
  * Intro: 
  * Author: zhangxutong
@@ -9,8 +8,8 @@ import groovy.transform.Field
  * History:
  */
 
-/*def test = new Test('zhangxutong','Programmer')
-test.print()*/
+/*def learn.test = new Test('zhangxutong','Programmer')
+learn.test.print()*/
 
 /*def x = 1 // 加上 def 或者 类型 ，则是局部变量
 def print(){
@@ -24,9 +23,12 @@ def printY(){
 }
 printY()*/
 
-@Field z =3
+/*@Field z =3
 def printZ(){
-    println z;
+    println z
+    10
 }
-printZ()
+println printZ()*/
 
+int x = 1
+println x.getClass()

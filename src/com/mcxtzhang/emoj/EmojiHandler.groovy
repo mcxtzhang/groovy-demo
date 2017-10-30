@@ -8,7 +8,7 @@ package com.mcxtzhang.emoj
  * History:
  */
 
-/*String oldFilename = "test.groovy"
+/*String oldFilename = "learn.test.groovy"
 String newFilename = "new.groovy"
 
 new File(newFilename).renameTo(oldFilename)*/

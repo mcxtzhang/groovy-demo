@@ -1,3 +1,5 @@
+import learn.test
+
 /**
  * Intro: 
  * Author: zhangxutong
@@ -8,7 +10,7 @@
  */
 
 def test = new test()
-//test.printY() 无法访问 因为y在别的类无法访问
+//learn.test.printY() 无法访问 因为y在别的类无法访问
 test.printZ()//加上@Field 即可访问
 
 

@@ -1,3 +1,4 @@
+package learn
 /**
  * Intro: 
  * Author: zhangxutong
@@ -11,13 +12,13 @@
 def int i = 11;
 println(i.getClass().getCanonicalName())*/
 
-//List变量由 []定义：
+//List变量由 []定义,其元素可以是任何对象。
 def aList = ["a",2,true]
 //变量存取，不用担心越界
 println(aList[5])
 //assert aList[1] == 'string'
 assert aList[5]==null
 aList[99] = 99
-assert aList[99]==99
-println(aList.size())
+assert aList[99]==99//自动扩容了
+println(aList.size())//100 个元素
 println aList
