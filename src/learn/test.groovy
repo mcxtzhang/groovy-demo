@@ -37,3 +37,18 @@ println printZ()
 
 int x = 1
 println x.getClass()
+
+
+
+
+def func(Map map){
+    println "Params: $map"
+    //println "Param1:$p1,Param2:$p2"
+}
+
+func p2:"第二个参数",p1:"第一个参数"
+
+def methodName = "println"
+
+"$methodName" "a"
+//输出 a
